@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4788"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="viking.svg">
+  <defs
+     id="defs4782" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="229.30142"
+     inkscape:cy="634.21507"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:window-width="2558"
+     inkscape:window-height="1381"
+     inkscape:window-x="0"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4785">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="backdrop" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="backdrop 1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="fill:#e8b699;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 85.298867,154.91149 -2.367658,5.1046 c 0,0 -9.384497,-3.31631 -8.011753,-6.49737 1.372745,-3.18106 10.379411,1.39277 10.379411,1.39277 z"
+       id="path5507"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="fill:#e8b699;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 123.84837,162.35794 -2.31136,5.13033 c 0,0 8.64794,4.92744 10.15554,1.80804 1.50759,-3.11942 -7.84418,-6.93837 -7.84418,-6.93837 z"
+       id="path5507-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="fill:#e8b699;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 114.0481,179.25556 -5.61975,-0.28458 c 0,0 -1.44016,9.84849 2.01404,10.11671 3.45422,0.26821 3.60571,-9.83213 3.60571,-9.83213 z"
+       id="path5507-2-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="fill:#e8b699;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 92.71298,179.69009 5.566073,-0.82552 c 0,0 2.383687,9.66358 -1.02854,10.26383 -3.412225,0.60021 -4.537541,-9.43836 -4.537541,-9.43836 z"
+       id="path5507-2-5-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 75.866169,152.62376 c -0.427816,0.17672 -0.759844,0.462 -0.946711,0.89503 -1.372746,3.18106 8.011914,6.49728 8.011914,6.49728 l 0.72164,-1.55617 c -5.408779,-1.39861 -8.858871,-4.09288 -7.786843,-5.83614 z"
+       id="path5507-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.388492,179.29345 -2.675289,0.39687 c 2.64e-4,0.003 1.100397,9.80916 4.421952,9.45265 -2.048589,-0.10282 -3.499871,-9.05171 -1.746663,-9.84952 z"
+       id="path5507-2-5-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 108.42852,178.97098 c 0,0 -1.44037,9.84848 2.01383,10.1167 -1.66201,-0.51786 -1.22798,-6.12194 -0.91467,-10.06088 z"
+       id="path5507-2-5-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 122.5796,165.1739 -1.04283,2.31458 c 0,0 2.42598,1.37589 4.93148,2.21279 -3.10481,-2.01216 -3.08378,-3.28439 -3.88865,-4.52737 z"
+       id="path5507-2-52"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:1;fill:#aad5e3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 124.43999,155.81835 c 0,14.31468 -2.77034,25.91902 -20.83074,25.91902 -18.060394,0 -20.830737,-11.60434 -20.830736,-25.91902 0,-14.31468 2.402723,-25.6802 20.830736,-25.91901 18.42802,-0.23881 20.83074,11.60433 20.83074,25.91901 z"
+       id="path5333"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="szszs"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:0.15;fill:#100722;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 99.592885,130.15381 c -14.770954,1.77116 -16.814477,12.46354 -16.814477,25.66458 0,10.72666 1.477682,21.11419 11.94489,24.67046 -5.564785,-7.2236 -7.606869,-16.86387 -4.590394,-21.70497 0.425307,-0.68257 0.951175,-1.26974 1.581909,-1.74127 l 2.339393,-20.73465 c -0.24299,-3.18304 1.505813,-5.2872 5.538679,-6.15415 z"
+       id="path5333-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 101.78899,158.60402 h 3.96875 c 0,0 1.33815,3.12344 0.47247,3.96875 -0.86568,0.84531 -4.29911,0.9097 -5.05543,0 -0.75633,-0.9097 0.61421,-3.96875 0.61421,-3.96875 z"
+       id="path5372"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczzc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 101.78891,158.60427 c 0,0 -1.37024,3.05905 -0.61391,3.96875 0.38247,0.46003 1.44942,0.67 2.52284,0.65681 -3.824701,-0.49509 0.15422,-6.33269 0.0755,-4.62556 z"
+       id="path5372-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:1;fill:#e8b699;fill-opacity:1;stroke:none;stroke-width:1.8750273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 107.40417,159.02559 c -1.21314,1.31261 -1.9285,0.13719 -3.66042,0.13719 -1.73192,0 -2.5253,1.05849 -3.33281,0.20045 -0.807513,-0.85803 -1.542075,-3.41344 3.31813,-3.57473 4.8602,-0.16129 4.88824,1.92447 3.6751,3.23709 z"
+       id="path5404"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzz"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.8750273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 103.72897,155.78842 c -4.818678,0.13769 -4.125451,2.71695 -3.31794,3.57498 0.49022,0.48349 0.86401,0.36027 1.52165,0.1571 -2.148705,-1.48094 -0.18274,-3.96025 2.24186,-3.72123 -0.14432,-0.009 -0.29199,-0.0141 -0.44557,-0.0108 z"
+       id="path5404-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:1;fill:#323232;fill-opacity:1;stroke:none;stroke-width:3.88439751;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 106.25951,155.43959 c 0,0.88565 -1.05757,1.22564 -2.36215,1.22564 -1.30458,0 -2.36215,-0.33999 -2.36214,-1.22564 -10e-6,-0.88566 1.05756,-1.9816 2.36214,-1.9816 1.30458,0 2.36215,1.09594 2.36215,1.9816 z"
+       id="path5368"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="fill:#dbdbdb;fill-opacity:1;stroke:none;stroke-width:0.57800001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 118.1138,121.7791 c 4.31588,-1.76954 5.76229,-3.86916 3.54706,-6.98599 -2.21523,-3.11683 -1.36944,-7.07252 0.50924,-7.93049 -1.2504,2.65465 1.86536,4.91296 3.84167,7.80956 1.97632,2.89659 2.26503,9.34904 -2.66781,11.51461 -3.24122,-0.66744 -7.21869,-0.9408 -5.23016,-4.40769 z"
+       id="path5791"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czczcc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:0.77861416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 82.597621,139.99739 c 0.282022,-11.1498 5.277346,-21.58225 21.366139,-25.16058 14.65692,3.25984 20.79261,12.12907 21.36614,25.16058 -17.10015,-7.11196 -30.635603,-5.34735 -42.732279,0 z"
+       id="path4497"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="fill:#dbdbdb;fill-opacity:1;stroke:none;stroke-width:0.57800001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 89.034051,122.4967 c -4.31588,-1.76955 -5.76229,-3.86916 -3.54706,-6.98599 2.21523,-3.11684 1.36944,-7.07252 -0.50924,-7.93049 1.2504,2.65464 -1.86536,4.91295 -3.84167,7.80955 -1.97632,2.8966 -2.26503,9.34904 2.66781,11.51462 3.24122,-0.66745 7.21869,-0.94081 5.23016,-4.40769 z"
+       id="path5791-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czczcc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77861416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 102.10696,115.29875 c -0.42671,0.11539 -0.84445,0.23622 -1.25424,0.36171 h -0.002 l -0.30769,0.0891 v 0.0118 c -12.466883,3.93973 -17.055578,12.62446 -17.83325,22.13638 5.780987,-2.63291 7.615868,-7.43148 7.644645,-9.79264 3.212497,-2.08154 1.090018,-7.71819 8.597707,-9.43568 1.249878,0.47017 -0.443532,8.61711 -0.443532,8.61711 l 4.303,0.62684 0.43722,-12.23266 z"
+       id="path4497-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:1;fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.77861416;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100.18775,127.91261 h 7.53724 c 0,0 -0.96229,-12.79621 -1.21134,-13.23862 -0.24905,-0.44241 -1.43564,-1.06133 -1.43564,-1.06133 0,0 -0.11422,-1.53931 -0.27747,-2.83234 -0.16325,-1.29304 -0.7814,-1.59559 -0.92247,0 -0.14107,1.59559 -0.23588,2.83234 -0.23588,2.83234 0,0 -1.17494,0.60979 -1.43564,1.06133 -0.2607,0.45155 -2.0188,13.23862 -2.0188,13.23862 z"
+       id="path4573"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczczzczc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91.394641,135.92544 2.07887,1.88989 c 5.812858,-0.87916 12.712569,-1.13959 18.898809,-0.0473 l 2.22061,-1.79539 c 0,0 -9.73289,-2.88207 -23.198289,-0.0472 z"
+       id="path6304"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57800001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 122.17017,106.86241 c -1.87868,0.85798 -2.72476,4.81395 -0.50953,7.93078 2.21523,3.11684 0.76881,5.21659 -3.54707,6.98614 -0.84636,1.47557 -0.60977,2.37159 0.18861,2.96674 2.93534,-1.7565 6.43068,-4.7515 5.83272,-7.09569 -0.68937,-2.70261 -5.73348,-6.26915 -1.96473,-10.78797 z"
+       id="path5791-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 117.54202,121.25043 1.56114,6.83646 c -5.11796,2.56356 -7.65943,-7.64807 -1.56114,-6.83646 z"
+       id="path6321"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="fill:#595959;fill-opacity:1;stroke:none;stroke-width:0.62211102px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.71257,120.43977 c -0.40677,-0.70506 -2.23108,0.0747 -3.17055,0.81066 -3.49081,2.33321 1.24387,9.27719 5.13007,6.89656 1.19239,-0.68843 2.89803,-2.32399 2.21307,-2.89897 -3.00821,0.33305 -5.12191,-2.75202 -4.17253,-4.80825 z"
+       id="path5789"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57800001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84.977757,107.57999 c 1.2504,2.65465 -1.865315,4.91326 -3.841625,7.80986 -1.976321,2.8966 -2.265302,9.34897 2.667537,11.51455 1.655095,-0.34083 3.500617,-0.5797 4.64726,-1.1927 -2.861066,-1.08792 -7.769852,-4.6775 -5.404836,-9.14827 2.397569,-4.53232 3.782335,-6.67014 1.931664,-8.98344 z"
+       id="path5791-2-8"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:#595959;fill-opacity:1;stroke:none;stroke-width:0.62211102px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.432807,121.19742 c 0.40677,-0.70506 2.23108,0.0747 3.17055,0.81066 3.49081,2.33321 -1.24387,9.2772 -5.13007,6.89656 -1.19239,-0.68843 -2.89803,-2.32399 -2.21307,-2.89897 3.00821,0.33305 5.12191,-2.75202 4.17253,-4.80826 z"
+       id="path5789-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62211102px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.932739,124.3614 c -0.773988,1.05823 -2.100614,1.81839 -3.672644,1.64434 -0.684961,0.57498 1.020911,2.21062 2.2133,2.89905 2.117535,1.29718 4.483979,-0.17574 5.637382,-2.16111 -1.04789,1.62663 -5.30189,-1.10969 -4.175972,-2.38228 z"
+       id="path5789-3-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:1;fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.77861416;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 82.80346,131.70946 c -3.002158,5.42843 -0.720479,10.15631 1.494372,8.82313 3.473375,-6.01606 36.358778,-5.46638 39.814858,0.51972 2.56438,1.64552 4.68959,-1.77828 1.34067,-9.20922 -3.34892,-7.43094 -38.702812,-6.41251 -42.64991,-0.13363 -3.947098,6.27888 1e-5,0 1e-5,0 z"
+       id="path4497-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccczzc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.29704,131.49068 v 3.92999 c -1.71045,-0.44048 -2.01799,-3.41753 0,-3.92999 z"
+       id="path6302"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#080808;fill-opacity:1;stroke:none;stroke-width:0.7786141;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 89.685266,128.26406 c -3.133196,0.72901 -6.114092,2.08355 -6.844384,3.38743 -3.033699,5.41642 -0.801592,10.21592 1.456814,8.88101 0.933323,-1.61656 4.00027,-2.75442 8.039301,-3.44475 -8.217098,2.87992 -5.555747,-7.77199 -2.651731,-8.82369 z"
+       id="path4497-4-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5336"
+       cx="91.985809"
+       cy="146.89272"
+       r="10.163107"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5336-0"
+       cx="115.7443"
+       cy="146.00787"
+       r="10.163107"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <circle
+       style="opacity:1;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.70086122;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5336-0-9"
+       cx="111.88725"
+       cy="145.99356"
+       r="2.2256069"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20987204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5336-0-9-5"
+       cx="113.00002"
+       cy="145.35292"
+       r="0.66645539"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 91.985599,136.72964 c -5.612802,2.3e-4 -10.162741,4.5504 -10.162688,10.1632 0.0053,5.50352 4.390339,10.00291 9.891902,10.14977 -11.759638,-3.39523 -7.238407,-20.93376 2.269112,-20.1135 -0.657889,-0.1323 -1.327266,-0.19912 -1.998326,-0.19947 z"
+       id="path5336-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 115.74387,135.84466 c -5.6128,2.3e-4 -10.16273,4.5504 -10.16268,10.16321 0.005,5.50352 4.39033,10.00291 9.8919,10.14977 -11.75963,-3.39523 -7.2384,-20.93377 2.26911,-20.11351 -0.65789,-0.1323 -1.32727,-0.19911 -1.99833,-0.19947 z"
+       id="path5336-9-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24823074px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.84478,128.27722 0.14175,6.55682 c -5.685663,0.11696 -4.803633,-7.18188 -0.14175,-6.55682 z"
+       id="path5649"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <circle
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5647"
+       cx="104.01015"
+       cy="131.46362"
+       r="3.4410951"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:0.15;fill:#0b0b0b;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 103.86808,128.02732 c -1.84298,0.0762 -3.29813,1.59194 -3.29903,3.43649 0.002,1.84355 1.45705,3.35778 3.29903,3.4339 -3.1204,-1.17247 -2.44231,-6.20951 0,-6.87039 z"
+       id="path5647-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17495304px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 94.373613,129.64004 0.0999,4.62126 c -4.007252,0.0824 -3.385597,-5.0618 -0.0999,-4.62126 z"
+       id="path5649-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <circle
+       style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:1.05720019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5647-4"
+       cx="94.490166"
+       cy="131.88582"
+       r="2.4252844"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#0b0b0b;fill-opacity:1;stroke:none;stroke-width:1.05720019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 94.390034,129.46392 c -1.298931,0.0537 -2.324518,1.12199 -2.325152,2.42203 0.0017,1.29934 1.026925,2.36658 2.325152,2.42022 -2.199256,-0.82636 -1.721338,-4.37647 0,-4.84225 z"
+       id="path5647-1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:0.8821398;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 88.887603,133.27576 c -2e-6,1.11765 -0.488428,2.02368 -1.606076,2.02368 -1.117648,0 -2.023681,-0.90603 -2.023684,-2.02368 -2e-6,-1.11765 0.906033,-2.02369 2.023684,-2.02369 1.117652,0 1.606078,0.90604 1.606076,2.02369 z"
+       id="path5647-4-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17495304px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 113.76851,129.71092 0.0999,4.62125 c -4.00725,0.0824 -3.38559,-5.0618 -0.0999,-4.62125 z"
+       id="path5649-1-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <circle
+       style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:1.05720019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5647-4-5"
+       cx="113.88507"
+       cy="131.9567"
+       r="2.4252844"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#0b0b0b;fill-opacity:1;stroke:none;stroke-width:1.05720019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 113.78494,129.53479 c -1.29894,0.0537 -2.32452,1.12199 -2.32516,2.42203 0.002,1.29934 1.02693,2.36658 2.32516,2.42022 -2.19926,-0.82636 -1.72134,-4.37647 0,-4.84225 z"
+       id="path5647-1-6-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:0.8821398;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 119.14144,133.45547 c 0,1.11765 0.48842,2.02368 1.60607,2.02368 1.11765,0 2.02368,-0.90603 2.02369,-2.02368 0,-1.11765 -0.90604,-2.02369 -2.02369,-2.02369 -1.11765,0 -1.60608,0.90604 -1.60607,2.02369 z"
+       id="path5647-4-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:0.8821398;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 125.03583,135.48243 c 0.0571,1.11619 0.17528,2.07338 1.29147,2.01618 1.11616,-0.0572 1.92461,-1.00582 1.86742,-2.12202 -0.0572,-1.11618 -0.95835,-1.97724 -2.07453,-1.92004 -1.11619,0.0571 -1.14158,0.90969 -1.08436,2.02588 z"
+       id="path5647-4-1-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:0.8821398;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 83.375776,135.10759 c -0.05626,1.11625 -0.108393,2.07095 -1.22464,2.01468 -1.116198,-0.0563 -1.925432,-1.00424 -1.869158,-2.12048 0.05627,-1.11622 0.956713,-1.97802 2.072945,-1.92174 1.116232,0.0563 1.077147,0.9113 1.020853,2.02754 z"
+       id="path5647-4-1-8-3-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11086034px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.92295,121.78861 0.0633,2.92829 c -2.53923,0.0522 -2.14531,-3.20744 -0.0633,-2.92829 z"
+       id="path5649-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <circle
+       style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:0.66990298;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5647-7"
+       cx="103.9968"
+       cy="123.21166"
+       r="1.5367999"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#0b0b0b;fill-opacity:1;stroke:none;stroke-width:0.66990298;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 103.93335,121.67701 c -0.82307,0.034 -1.47294,0.71096 -1.47335,1.53474 0.001,0.82333 0.65072,1.49959 1.47335,1.53359 -1.39357,-0.52363 -1.09074,-2.77318 0,-3.06833 z"
+       id="path5647-1-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:0.48880267;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5647-7-3"
+       cx="95.202316"
+       cy="86.291382"
+       r="1.1213443"
+       inkscape:export-filename="C:\Users\Marcus Olsson\viking.png"
+       inkscape:export-xdpi="188.56"
+       inkscape:export-ydpi="188.56" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:0.29948229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5647-7-3-3"
+       cx="95.23513"
+       cy="83.084145"
+       r="0.68703145"
+       inkscape:export-filename="C:\Users\Marcus Olsson\viking.png"
+       inkscape:export-xdpi="188.56"
+       inkscape:export-ydpi="188.56" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8821398;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 87.281492,131.25193 c -1.11765,0 -2.023649,0.906 -2.023647,2.02365 3e-6,0.99339 0.716434,1.8181 1.660364,1.98955 -1.669336,-1.24972 -1.125067,-3.30934 0.434596,-4.00958 -0.02405,-7.9e-4 -0.04666,-0.004 -0.07131,-0.004 z"
+       id="path5647-4-1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8821398;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 83.375776,135.10759 c -0.05626,1.11625 -0.108393,2.07095 -1.22464,2.01468 -1.116198,-0.0563 -1.925432,-1.00424 -1.869158,-2.12048 0.05627,-1.11622 0.956713,-1.97802 2.072945,-1.92174 1.116232,0.0563 1.077147,0.9113 1.020853,2.02754 z"
+       id="path5647-4-1-8-3-4-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8821398;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 125.68798,133.56059 c -0.68245,0.20869 -0.69852,0.92743 -0.6472,1.92863 0.0517,1.01041 0.16309,1.88117 0.99976,1.99608 -0.87462,0.0497 -1.06257,-3.6934 -0.35256,-3.92471 z"
+       id="path5647-4-1-8-3-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8821398;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 120.29705,131.49068 c -0.79845,0.21425 -1.15549,1.01122 -1.15549,1.96474 0,0.95354 0.35701,1.75102 1.15549,1.96525 -1.05537,-0.77873 -0.92301,-3.37445 0,-3.92999 z"
+       id="path5647-4-1-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62211102px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 117.54202,121.25043 c -1.48001,0.98922 -1.47804,2.80615 -0.69246,4.39094 -0.39033,-1.31533 3.38068,-4.09172 4.0075,-2.62102 -0.41992,-0.84355 -0.51007,-1.78824 -0.14418,-2.58073 -0.53608,-0.78855 -2.46149,0.26491 -3.17086,0.81081 z"
+       id="path5789-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.64219,113.61266 c 0.20515,-0.0687 0.4103,-0.12682 0.61545,-0.11774 l 0.0175,-3.79856 c -0.46738,0.0484 -0.44068,2.10975 -0.63298,3.9163 z"
+       id="path6469"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <circle
+       style="display:inline;opacity:1;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.70086122;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5336-0-9-7"
+       cx="96.359566"
+       cy="146.29707"
+       r="2.2256072"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <circle
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20987205;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5336-0-9-5-5"
+       cx="97.472336"
+       cy="145.65645"
+       r="0.66645539"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08386826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.11878,117.99243 0.0479,2.21532 c -1.92098,0.0395 -1.62298,-2.4265 -0.0479,-2.21532 z"
+       id="path5649-6-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <circle
+       style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:0.50679618;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5647-7-6"
+       cx="104.17465"
+       cy="119.06901"
+       r="1.1626226"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#0b0b0b;fill-opacity:1;stroke:none;stroke-width:0.50679618;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 104.12665,117.908 c -0.62268,0.0257 -1.11432,0.53786 -1.11462,1.16107 8.3e-4,0.62287 0.49228,1.13447 1.11462,1.16019 -1.05427,-0.39614 -0.82517,-2.09797 0,-2.32126 z"
+       id="path5647-1-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06025019px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.20243,114.88123 0.0344,1.59146 c -1.38002,0.0284 -1.16593,-1.74317 -0.0344,-1.59146 z"
+       id="path5649-6-3-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <circle
+       style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:0.36407775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5647-7-6-2"
+       cx="104.24256"
+       cy="115.65463"
+       r="0.83521742"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+    <path
+       style="display:inline;opacity:0.15;fill:#0b0b0b;fill-opacity:1;stroke:none;stroke-width:0.36407775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 104.20808,114.82058 c -0.44732,0.0185 -0.80051,0.38639 -0.80073,0.8341 6e-4,0.44746 0.35365,0.81499 0.80073,0.83347 -0.75738,-0.28458 -0.59279,-1.50717 0,-1.66757 z"
+       id="path5647-1-5-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
+       inkscape:export-xdpi="308.65744"
+       inkscape:export-ydpi="308.65744" />
+  </g>
+</svg>
