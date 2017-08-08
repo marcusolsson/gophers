@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="57.07473mm"
+   height="82.29187mm"
+   viewBox="0 0 57.07473 82.29187"
    version="1.1"
    id="svg4788"
    inkscape:version="0.92.1 r15371"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="229.30142"
-     inkscape:cy="634.21507"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="413.7767"
+     inkscape:cy="231.73356"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -37,11 +37,16 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
-     inkscape:window-width="2558"
-     inkscape:window-height="1381"
-     inkscape:window-x="0"
-     inkscape:window-y="58"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1414"
+     inkscape:window-height="1408"
+     inkscape:window-x="1144"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata4785">
     <rdf:RDF>
@@ -57,16 +62,19 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="backdrop" />
+     inkscape:label="backdrop"
+     transform="translate(-74.782307,-106.86241)" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="backdrop 1" />
+     inkscape:label="backdrop 1"
+     transform="translate(-74.782307,-106.86241)" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-74.782307,-106.86241)">
     <path
        style="fill:#e8b699;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 85.298867,154.91149 -2.367658,5.1046 c 0,0 -9.384497,-3.31631 -8.011753,-6.49737 1.372745,-3.18106 10.379411,1.39277 10.379411,1.39277 z"
@@ -533,21 +541,21 @@
        inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/viking.png"
        inkscape:export-xdpi="308.65744"
        inkscape:export-ydpi="308.65744" />
-    <ellipse
+    <circle
        style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:0.48880267;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path5647-7-3"
        cx="95.202316"
        cy="86.291382"
-       r="1.1213443"
+       r="0"
        inkscape:export-filename="C:\Users\Marcus Olsson\viking.png"
        inkscape:export-xdpi="188.56"
        inkscape:export-ydpi="188.56" />
-    <ellipse
+    <circle
        style="display:inline;opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:0.29948229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path5647-7-3-3"
        cx="95.23513"
        cy="83.084145"
-       r="0.68703145"
+       r="0"
        inkscape:export-filename="C:\Users\Marcus Olsson\viking.png"
        inkscape:export-xdpi="188.56"
        inkscape:export-ydpi="188.56" />
