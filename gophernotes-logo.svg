@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="185.93245mm"
-   height="40.807899mm"
-   viewBox="0 0 185.93245 40.8079"
+   width="207.36641mm"
+   height="41.338223mm"
+   viewBox="0 0 207.36641 41.338223"
    version="1.1"
    id="svg8778"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="gophernotes.svg"
-   inkscape:export-filename="C:\Users\Marcus Olsson\Desktop\data-science\paperreading\gophernotes.png"
-   inkscape:export-xdpi="249.08"
-   inkscape:export-ydpi="249.08">
+   sodipodi:docname="gophernotes-logo.svg"
+   inkscape:export-filename="/home/marcus/src/github.com/marcusolsson/gophers/gophernotes-logo.png"
+   inkscape:export-xdpi="245.78"
+   inkscape:export-ydpi="245.78">
   <defs
      id="defs8772" />
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="37.538277"
-     inkscape:cy="84.684141"
+     inkscape:cx="118.54854"
+     inkscape:cy="86.688511"
      inkscape:document-units="mm"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -44,11 +44,11 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-global="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1377"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2558"
+     inkscape:window-height="1381"
+     inkscape:window-x="0"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata8775">
     <rdf:RDF>
@@ -65,14 +65,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(48.499773,-135.89962)"
+     transform="translate(69.933737,-135.89962)"
      style="display:none;opacity:0.14200003" />
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="gopher"
      style="display:inline"
-     transform="translate(120.46644,-9.3215334)">
+     transform="translate(141.9004,-9.3215334)">
     <path
        style="fill:#e3bcd1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 47.989752,14.05091 -1.670434,1.002261 C 42.761521,9.732786 46.703859,8.1845707 47.989752,14.05091 Z"
@@ -531,16 +531,16 @@
      id="layer6"
      inkscape:label="text"
      style="display:inline"
-     transform="translate(120.46644,-9.3215334)">
+     transform="translate(141.9004,-9.3215334)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:26.50583267px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66264588"
-       x="-121.81824"
+       x="-143.36288"
        y="45.146336"
        id="text4656"><tspan
          sodipodi:role="line"
          id="tspan4654"
-         x="-121.81824"
+         x="-143.36288"
          y="45.146336"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.66264588">gopher<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
@@ -551,7 +551,7 @@
      id="layer4"
      inkscape:label="papershadows 3"
      style="display:inline"
-     transform="translate(120.46644,-9.3215334)">
+     transform="translate(141.9004,-9.3215334)">
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.88976383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 126.25977,68.830078 c -11.05218,-0.15427 -28.41602,0.806641 -28.41602,0.806641 -12.529731,4.659348 -14.178481,13.36125 -15.142578,22.316406 6.224519,-9.641272 20.217808,-2.774746 31.300778,-2.091797 -0.22889,-6.863425 1.01627,-8.762087 2.71094,-13.382812 12.71806,2.3544 19.05004,14.719254 22.74609,25.140624 3.69606,10.42137 4.55696,30.65284 14.49024,33.31445 9.93329,2.66162 3.87466,24.57893 -2.2461,32.3125 -2.38928,3.35161 -5.48448,5.29345 -8.52539,7.3418 -10.25002,-5.78615 -21.20632,-19.59585 -24.92773,-19.77148 -3.72141,-0.17563 -14.1391,0.49804 -20.96875,0.49804 -6.829648,0 -10.674767,15.30617 -10.644531,15.34571 0,0 -10.926961,-10.60352 -14.158203,-10.60352 -3.231247,0 -20.718678,0.70313 -22.964844,0.70313 -2.246166,0 -6.943504,7.70823 -9.519531,11.93359 -15.710267,0.0631 -19.611329,-4.24805 -19.611329,-4.24805 -0.580208,3.33699 5.315219,10.88575 7.703126,11.9961 2.387906,1.11032 23.022038,0.83299 25.578124,-0.2461 2.556084,-1.07908 9.060547,-12.64258 9.060547,-12.64258 0,0 11.141524,11.24805 15.236329,11.24805 4.094804,0 18.10844,-0.5 22.421872,-0.5 4.31344,0 8.59961,-14.51172 8.59961,-14.51172 8.66094,6.54257 11.84647,18.12218 44.35547,13.37696 7.18876,-0.39144 13.04309,-4.66457 18.38867,-10.41797 10.13696,-14.3308 6.52448,-31.85271 -0.66015,-36.51758 -7.18464,-4.66487 -9.47547,-24.74236 -15.75586,-38.664064 -6.28039,-13.921704 -15.35926,-20.627135 -20.97852,-22.132812 -1.40481,-0.376419 -4.38821,-0.552092 -8.07226,-0.603516 z"
@@ -646,7 +646,7 @@
      id="layer2"
      inkscape:label="papershadows 1"
      style="display:inline;opacity:0.5"
-     transform="translate(120.46644,-9.3215334)">
+     transform="translate(141.9004,-9.3215334)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05999995, 1.05999995;stroke-dashoffset:0;stroke-opacity:1"
        d="m 29.518315,42.916018 3.023486,0.05011"
@@ -741,5 +741,5 @@
      id="layer5"
      inkscape:label="papershadows 2"
      style="display:inline"
-     transform="translate(120.46644,-9.3215334)" />
+     transform="translate(141.9004,-9.3215334)" />
 </svg>
